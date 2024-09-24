@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently doing internship at **CBS Pakistan!**
 
-- 🌱 I’m currently learning **Java!**
+- 🌱 I’m currently working as a **Frontend Developer!**
 
 - 👨‍💻 All of my projects are available at [https://hassanjavaid1.github.io/Hassanjavaid](https://hassanjavaid1.github.io/Hassanjavaid)
 
