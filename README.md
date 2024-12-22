@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hassan javaid</h1>
 <h3 align="center">A passionate frontend developer from Pakistan!</h3>
 
-- 🔭 I’m currently doing internship at **CBS Pakistan!**
+- 🔭 I’m currently working at **CBS Pakistan!**
 
 - 🌱 I’m currently working as a **Frontend Developer!**
 
 - 👨‍💻 All of my projects are available at [https://hassanjavaid1.github.io/Hassanjavaid](https://hassanjavaid1.github.io/Hassanjavaid)
 
-- 💬 Ask me about **HTML,CSS,JavaScript,ReactJS,BootStrap etc.**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS ,BootStrap, etc.**
 
 - 📫 How to reach me **hassanjavaid159@gmail.com**
 
