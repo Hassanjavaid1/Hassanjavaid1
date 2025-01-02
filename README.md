@@ -25,20 +25,6 @@ As a dedicated Front-End Developer at CBS Pakistan, I specialize in crafting res
 - Postman
 - VS Code
 
-## 🌟 Featured Projects
-
-### Stock Orbit 🚀
-
-An innovative application transforming inventory management by enabling real-time product tracking in shops and warehouses. This solution empowers salespeople and store owners to efficiently find, track, and manage products within their inventory.
-
-[GitHub Repository](https://github.com/Hassanjavaid1/StockOrbit)
-
-### Time Care ⏰
-
-A subscription-based app designed to streamline employee attendance tracking, including presence, lateness, absences, and holiday management. It offers businesses real-time insights to optimize workforce management through features like top employee logs and departmental overviews.
-
-[GitHub Repository](https://github.com/Hassanjavaid1/TimeCare)
-
 ## 🎓 Certifications
 
 - Front-End Development Certification from freeCodeCamp
