@@ -7,27 +7,27 @@ As a dedicated Front-End Developer at CBS Pakistan, I specialize in crafting res
 ## 🛠️ Technical Skills
 
 **Front-End Technologies:**
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Bootstrap
-- Tailwind CSS
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black)
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 
 **Back-End Technologies:**
-- Node.js
-- Express.js
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+- ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 
 **Databases:**
-- MySQL
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Tools:**
-- Postman
-- VS Code
+- ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 🎓 Certifications
 
-- Front-End Development Certification from freeCodeCamp
+- [![freeCodeCamp](https://img.shields.io/badge/-Front--End_Development_Certification-4D5B6F?style=flat&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/Hassanjavaid/front-end-development-libraries)
 
 ## 📈 GitHub Stats
 
@@ -35,9 +35,9 @@ As a dedicated Front-End Developer at CBS Pakistan, I specialize in crafting res
 
 ## 📫 Let's Connect
 
-- **Email:** hassanjavaid159@gmail.com
-- **LinkedIn:** [Hassan Javaid](https://www.linkedin.com/in/hassan-javaid159)
-- **Portfolio:** [hassanjavaid1.github.io/Hassanjavaid](https://hassanjavaid1.github.io/Hassanjavaid)
+- 📧 **Email:** hassanjavaid159@gmail.com
+- 🔗 **LinkedIn:** [Hassan Javaid](https://www.linkedin.com/in/hassan-javaid159)
+- 🌐 **Portfolio:** [hassanjavaid1.github.io/Hassanjavaid](https://hassanjavaid1.github.io/Hassanjavaid)
 
 I'm enthusiastic about connecting with fellow professionals, mentors, and industry experts to exchange knowledge and explore collaborative opportunities. Feel free to reach out to discuss web development, share insights, or connect professionally.
 
