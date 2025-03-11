@@ -2,7 +2,7 @@
 
 ## 💼 Aspiring Full Stack Developer
 
-As a dedicated Front-End Developer at CBS Pakistan, I specialize in crafting responsive and user-friendly web interfaces using technologies such as HTML, CSS, JavaScript, REST APIs, and Bootstrap. I am currently enhancing my skills in back-end development to evolve into a proficient Full Stack Developer.
+Frontend developer specialize in crafting responsive and user-friendly web interfaces using technologies such as HTML, CSS, JavaScript, REST APIs, and Bootstrap. I am currently enhancing my skills in back-end development to evolve into a proficient Full Stack Developer.
 
 ## 🛠️ Technical Skills
 
