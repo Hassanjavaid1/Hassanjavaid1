@@ -2,17 +2,18 @@
 
 ## 💼 Aspiring Full Stack Developer
 
-Frontend developer specialize in crafting responsive and user-friendly web interfaces using technologies such as HTML, CSS, JavaScript, REST APIs, and Bootstrap. I am currently enhancing my skills in back-end development to evolve into a proficient Full Stack Developer.
+Frontend developer specialize in crafting responsive and user-friendly web interfaces using technologies such as JavaScript, ReactJS, NextJS, TailwindCSS. I am currently enhancing my skills in back-end development to evolve into a proficient Full Stack Developer.
 
 ## 🛠️ Technical Skills
 
 **Front-End Technologies:**
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black)
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
 **Back-End Technologies:**
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
